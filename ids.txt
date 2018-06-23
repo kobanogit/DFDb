@@ -1,0 +1,3 @@
+admin : admin@admin.fr
+prof : 0007eleve@mail.com
+utilisateur eleve : 0120eleve@mail.com
